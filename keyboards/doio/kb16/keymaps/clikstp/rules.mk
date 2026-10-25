@@ -1,0 +1,4 @@
+# CLIKSTP keymap for the DOIO KB16 rev2
+ENCODER_MAP_ENABLE = no
+VIA_ENABLE = no
+RAW_ENABLE = yes
